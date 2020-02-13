@@ -1,16 +1,29 @@
 ---
 layout: page
-title: /about
+title: /hakkımda
 permalink: /about/
 ---
 
-# jekyll-theme-console
+# HAKKIMDA
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+Yazılım konusunda çaylak sayılabilecek (belki o bile sayılamayacak) bilgisayar mühendisliği öğrencisiyim işte
 
-## What is jekyll?
+## BU BLOG NİYE VAR Kİ?
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+Çalıştığım şeyleri biraz zaman geçince unutma olayı beni çok üzüyor :( (yorgan altında geceler boyu ağlıyorum)
+İşte bu üzücü olayların önüne geçmek için ben de dedim ki olum zombiePr0cess aç bir blog öğrenmeye çalıştığın şeyleri bu mecrada paylaş 
+eee post yazmak benim için bir nevi konu tekrarı olur
+Hadi diyelim tekrar unuttum (arada yaparım böyle şeyler) 2dk açar bakar tekrar ederim öyle bi ton kitap site vs uğraşmam 
+
+## YASAL UYARI
+
+Sevgili usta sprinterlar(seniorlar yani) postlarda bir konuyu 
+açıklamaya çalışırken yanlış ifade etmiş olabilir ya da tamamen yanlış anlatmış olabilirim hemen triggerlanmayın 
+
+ve baby yoda kardeşlerim bu blogda hata olabileceğini yukarı kısımda beyan ettim
+sadece bu blog yazılarına bağlı kalmayın lütfen, kimseye yanlış bilgi vermek istemem :(
+
+## ÖZET GEÇ YORMA BİZİ KISMI
+
+bir konuyu daha iyi anlamak için kendi kendime anlatıyorum konuşmuyorum da yazıyorum
 

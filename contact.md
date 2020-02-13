@@ -1,11 +1,11 @@
 ---
-title: /contact
+title: /iletisim
 layout: page
 permalink: /contact
 ---
 
 # Get in touch?
-
+aramızda kalsın şuan çalışmıyor ama bi ara icabına bakacağım
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
