@@ -17,7 +17,7 @@ Hadi diyelim tekrar unuttum (arada yaparım böyle şeyler) 2dk açar bakar tekr
 
 ## YASAL UYARI
 
-Sevgili usta sprinterlar(seniorlar yani) postlarda bir konuyu 
+Sevgili usta splinter(seniorlar yani) postlarda bir konuyu 
 açıklamaya çalışırken yanlış ifade etmiş olabilir ya da tamamen yanlış anlatmış olabilirim hemen triggerlanmayın 
 
 ve baby yoda kardeşlerim bu blogda hata olabileceğini yukarı kısımda beyan ettim
