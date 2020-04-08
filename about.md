@@ -1,12 +1,12 @@
 ---
+title: "/hakkımda"
 layout: page
-title: /hakkımda
-permalink: /about/
+permalink: "/about/"
 ---
 
 # HAKKIMDA
 
-Yazılım konusunda çaylak sayılabilecek (belki o bile sayılamayacak) bilgisayar mühendisliği öğrencisiyim işte
+Yazılım konusunda çaylak sayılabilecek bir bilgisayar mühendisliği öğrencisiyim işte
 
 ## BU BLOG NİYE VAR Kİ?
 
@@ -26,4 +26,3 @@ sadece bu blog yazılarına bağlı kalmayın lütfen, kimseye yanlış bilgi ve
 ## ÖZET GEÇ YORMA BİZİ KISMI
 
 bir konuyu daha iyi anlamak için kendi kendime anlatıyorum konuşmuyorum da yazıyorum
-
