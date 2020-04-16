@@ -46,6 +46,7 @@ Yapı olarak ;
 <br/> 
 
 sonda bulunan  **`zombiepr0cess666`**  benim secret key değerimdir.
+Bu secret keyi kendinize göre değiştirip tokeni imzalıyorsunuz bu sizin bir nevi mührünüz
 <br />
 Token 2 tür olarak karşımıza çıkar.
 **Access Token** = Id pw yolladıktan sonra döndüğümüz token endpointlere eriştiğimiz token yanii
